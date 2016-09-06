@@ -30,7 +30,7 @@
 
 #### Physical scene understanding
 1. Smith, K., & Vul, E. (2013). [Sources of uncertainty in intuitive physics](http://www.evullab.org/pdf/SV-CogSci-2012.pdf). Topics in cognitive science 5(1), 185-199.
-2. Zhu, Y., Jiang, C., Zhao, Y., Terzopoulos, D., & Zhu, S.C. (2016). [Inferring Forces and Learning Human Utilities From Videos](http://www.stat.ucla.edu/~yixinzhu/projects/cvpr16_chair/chair2016cvpr.pdf). CVPR.
+2. Zhu, Y., Jiang, C., Zhao, Y., Terzopoulos, D., & Zhu, S. C. (2016). [Inferring forces and learning human utilities from videos](http://www.stat.ucla.edu/~yixinzhu/projects/cvpr16_chair/chair2016cvpr.pdf). In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 3823-3833).
 3. Battaglia, P.W., Kersten, D.J., & Schrater, P.R. (2011). [How haptic size sensations improve distance perception](http://web.mit.edu/~pbatt/www/publications/BattKersSchr11PlosCB.pdf). PLoS Computational Biology, 7 (6), e1002080.
 4. Sanborn, A., Mansinghka, V., & Griffiths, T.L. (2013). [Reconciling intuitive physics and Newtonian mechanics for colliding objects](https://cocosci.berkeley.edu/tom/papers/collisionPsychReview_inpress.pdf). Psychological Review.
 5. Bates, C.J., Yildirim, I., Tenenbaum, J.B., & Battaglia, P.W. (2015). [Humans predict liquid dynamics using probabilistic simulation](http://web.mit.edu/~pbatt/www/publications/BateYildTeneBatt15CogSci37.pdf). Proceedings of the 37th annual conference of the cognitive science society.
