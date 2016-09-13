@@ -35,6 +35,14 @@
 #### Collision dynamics
 - [ ] Gilden, D. L., & Proffitt, D. R. (1989). Understanding collision dynamics. Journal of Experimental Psychology: Human Perception and Performance, 15(2), 372.
 
+#### Perception versus prediction: which systems do physical tasks use or invoke?
+- [ ] White, P. A. (2012). The experience of force: the role of haptic experience of forces in visual perception of object motion and interactions, mental simulation, and motion-related judgments. Psychological bulletin, 138(4), 589.
+- [ ] Lieder, F., Plunkett, D., Hamrick, J. B., Russell, S. J., Hay, N., & Griffiths, T. (2014). Algorithm selection by rational metareasoning as a model of human strategy selection. In Advances in Neural Information Processing Systems (pp. 2870-2878).
+
+#### Simple heuristics modelling
+- [ ] Proffitt, D. R., & Gilden, D. L. (1989). Understanding natural dynamics. Journal of Experimental Psychology: Human Perception and Performance, 15(2), 384.
+- [ ] Todd, J. T., & Warren, W. H. (1982). Visual perception of relative mass in dynamic events. Perception, 11(3), 325-335.
+
 #### Using deep learning to predict physics outcomes
 - [ ] Lerer, A., Gross, S., & Fergus, R. (2016). Learning Physical Intuition of Block Towers by Example. arXiv preprint arXiv:1603.01312.
 
