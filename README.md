@@ -17,20 +17,20 @@
 - [ ] Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (2015). How, whether, why: Causal judgments as counterfactual contrasts. In Proceedings of the 37th annual conference of the cognitive science society (pp. 782-787).
 - [ ] Sanborn, A. N., Mansinghka, V. K., & Griffiths, T. L. (2013). [Reconciling intuitive physics and Newtonian mechanics for colliding objects](https://cocosci.berkeley.edu/tom/papers/collisionPsychReview_inpress.pdf). Psychological review, 120(2), 411. [noisy Newtonian model]
 - [x] Hamrick, J. B., Battaglia, P. W., Griffiths, T. L., & Tenenbaum, J. B. (2016). [Inferring mass in complex scenes by mental simulation](http://ac.els-cdn.com/S0010027716302025/1-s2.0-S0010027716302025-main.pdf?_tid=ff2447b6-73dc-11e6-93ca-00000aacb35e&acdnat=1473130549_b6767dc48254aa7fda26d261d689ec63). Cognition, 157, 61-76.
-Finish notes / second reading.
+**Finish notes / second reading**.
 - [ ] Smith, K. A., & Vul, E. (2013). [Sources of uncertainty in intuitive physics](http://www.evullab.org/pdf/SV-CogSci-2012.pdf). Topics in cognitive science, 5(1), 185-199.
 - [ ] Mason, R., & Just, M. (2016). Neural representations of physics concepts. Psychological Science 27 (6), 904-913.
 
 #### Innate aspects of intuitive physics
 - [x] Baillargeon, R. (2002). The acquisition of physical knowledge in infancy: A summary in eight lessons. Blackwell handbook of childhood cognitive development, 47–83.
-Finish notes / second reading.
+**Finish notes / second reading**.
 
 #### Static learning of intuitive physics
 - [ ] Kemp, C., Tenenbaum, J. B., Niyogi, S., & Griffiths, T. L. (2010). A probabilistic model of theory formation. Cognition, 114(2), 165-196.
 
 #### Dynamic learning of intuitive physics
 - [x] Ullman, T., Stuhlmüller, A., Goodman, N., & Tenenbaum, J. B. (2014). Learning physics from dynamical scenes. In Proceedings of the 36th Annual Conference of the Cognitive Science society (pp. 1640-1645).
-Finish notes / second reading.
+**Finish notes / second reading**.
 
 #### Collision dynamics
 - [ ] Gilden, D. L., & Proffitt, D. R. (1989). Understanding collision dynamics. Journal of Experimental Psychology: Human Perception and Performance, 15(2), 372.
