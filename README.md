@@ -2,6 +2,8 @@
 
 (Might need to categorize better).
 
+- [x] Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2016). Building machines that learn and think like people. arXiv preprint arXiv:1604.00289. **Blog**
+
 #### Quality and resolution of mental simulations
 - [ ] Crespi, S., Robino, C., Silva, O., & de'Sperati, C. (2012). Spotting expertise in the eyes: Billiards knowledge as revealed by gaze shifts in a dynamic visual prediction task. Journal of vision, 12(11), 30-30.
 - [ ] Hamrick, J. B., & Griffiths, T. L. (2014). What to simulate? Inferring the right direction for mental rotation. In Proceedings of the 36th Annual Meeting of the Cognitive Science Society.
@@ -20,6 +22,7 @@
 **Finish notes / second reading**.
 - [ ] Smith, K. A., & Vul, E. (2013). [Sources of uncertainty in intuitive physics](http://www.evullab.org/pdf/SV-CogSci-2012.pdf). Topics in cognitive science, 5(1), 185-199.
 - [ ] Mason, R., & Just, M. (2016). Neural representations of physics concepts. Psychological Science 27 (6), 904-913.
+- [x] Fischer, J., Mikhael, J. G., Tenenbaum, J. B., & Kanwisher, N. (2016). Functional neuroanatomy of intuitive physical inference. Proceedings of the National Academy of Sciences, 201610344. **Blog**
 
 #### Innate aspects of intuitive physics
 - [x] Baillargeon, R. (2002). The acquisition of physical knowledge in infancy: A summary in eight lessons. Blackwell handbook of childhood cognitive development, 47–83.
