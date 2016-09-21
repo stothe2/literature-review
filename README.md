@@ -53,7 +53,8 @@
 - [ ] Just, M. A., Cherkassky, V. L., Aryal, S., & Mitchell, T. M. (2010). A neurosemantic theory of concrete noun representation based on the underlying brain codes. PloS one, 5(1), e8622.
 
 #### Bayesian models of cognition
-- [ ] Griffiths, T.L., Kemp, C., & Tenenbaum, J.B. (2008). [Bayesian models of cognition](http://cocosci.berkeley.edu/tom/papers/bayeschapter.pdf). In Ron Sun (ed.), Cambridge Handbook of Computational Cognitive Modeling. Cambridge University Press.
+- [x] Griffiths, T.L., Kemp, C., & Tenenbaum, J.B. (2008). [Bayesian models of cognition](http://cocosci.berkeley.edu/tom/papers/bayeschapter.pdf). In Ron Sun (ed.), Cambridge Handbook of Computational Cognitive Modeling. Cambridge University Press.
+**Finish notes / second reading**.
 - [ ] Perfors, A., Tenenbaum, J. B., Griffiths, T. L., & Xu, F. (2011). [A Tutorial Introduction to Bayesian Models of Cognitive Development](http://www.babylab.berkeley.edu/Perfors-Tenenbaum-Griffiths-Xu-2011.pdf). Cognition, 120, 302-321.
 - [ ] Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). [How to Grow a Mind: Statistics, Structure, and Abstraction](http://courses.csail.mit.edu/6.803/pdf/tenenbaum2011.pdf). Science, 331, 1279-1285.
 - [ ] Gershman, S. J., Horvitz, E. J., & Tenenbaum, J. B. (2015). [Computational Rationality: A Converging Paradigm for Intelligence in Brains, Minds, and Machines](http://gershmanlab.webfactional.com/pubs/GershmanHorvitzTenenbaum15.pdf). Science, 349 (6245), 273-278.
