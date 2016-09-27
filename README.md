@@ -64,3 +64,10 @@
 - [ ] Tenenbaum, J.B., Griffiths, T.L., & Kemp, C. (2006). [Theory-based Bayesian models of inductive learning and reasoning](http://www.aliquote.org/cours/2006_cogmaster_B4/pdf/Tenenbaum2006.pdf). Trends in cognitive sciences, 10(7), 309-318.
 
 #### Challenges of probabilistic models
+
+
+#### Other
+- [ ] Yildirim, I., Siegel, M. H., & Tenenbaum, J. B. Perceiving Fully Occluded Objects via Physical Simulation.
+[Quick glance summary](_posts/09-27-2016-Tenenbaum.md).
+
+
