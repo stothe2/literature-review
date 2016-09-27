@@ -68,6 +68,6 @@
 
 #### Other
 - [ ] Yildirim, I., Siegel, M. H., & Tenenbaum, J. B. Perceiving Fully Occluded Objects via Physical Simulation.
-[Quick glance summary](_posts/09-27-2016-Tenenbaum.md).
+[Quick glance summary](./_posts/09-27-2016-Tenenbaum.md).
 
 
