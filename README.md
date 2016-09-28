@@ -2,7 +2,8 @@
 
 (Might need to categorize better).
 
-- [x] Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2016). Building machines that learn and think like people. arXiv preprint arXiv:1604.00289. **Blog**.
+- [x] Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2016). Building machines that learn and think like people. arXiv preprint arXiv:1604.00289.
+**Blog**.
 
 #### Quality and resolution of mental simulations
 - [ ] Crespi, S., Robino, C., Silva, O., & de'Sperati, C. (2012). Spotting expertise in the eyes: Billiards knowledge as revealed by gaze shifts in a dynamic visual prediction task. Journal of vision, 12(11), 30-30.
@@ -22,7 +23,8 @@
 **Finish notes / second reading**.
 - [ ] Smith, K. A., & Vul, E. (2013). [Sources of uncertainty in intuitive physics](http://www.evullab.org/pdf/SV-CogSci-2012.pdf). Topics in cognitive science, 5(1), 185-199.
 - [ ] Mason, R., & Just, M. (2016). Neural representations of physics concepts. Psychological Science 27 (6), 904-913.
-- [x] Fischer, J., Mikhael, J. G., Tenenbaum, J. B., & Kanwisher, N. (2016). Functional neuroanatomy of intuitive physical inference. Proceedings of the National Academy of Sciences, 201610344. **Blog**.
+- [x] Fischer, J., Mikhael, J. G., Tenenbaum, J. B., & Kanwisher, N. (2016). Functional neuroanatomy of intuitive physical inference. Proceedings of the National Academy of Sciences, 201610344.
+**Blog**.
 
 #### Innate aspects of intuitive physics
 - [x] Baillargeon, R. (2002). The acquisition of physical knowledge in infancy: A summary in eight lessons. Blackwell handbook of childhood cognitive development, 47–83.
@@ -69,3 +71,5 @@
 #### Other
 - [ ] Yildirim, I., Siegel, M. H., & Tenenbaum, J. B. Perceiving Fully Occluded Objects via Physical Simulation.
 **[Quick glance summary](https://gitlab.com/stothe2/literature-review/blob/master/_posts/2016-09-27-Tenenbaum2016.md)**.
+- [ ] Peters, M. A., Ma, W. J., & Shams, L. (2016). The Size-Weight Illusion is not anti-Bayesian after all: a unifying Bayesian account. PeerJ, 4, e2124.
+**[Quick glance summary](https://gitlab.com/stothe2/literature-review/blob/master/_posts/2016-09-28-Ma2016.md)**.
