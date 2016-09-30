@@ -67,6 +67,9 @@
 
 #### Challenges of probabilistic models
 
+#### Ventral visual pathway used not only for object recognition but also physical scene understanding
+- [ ] Gallivan, J. P., Cant, J. S., Goodale, M. A., & Flanagan, J. R. (2014). Representation of object weight in human ventral visual cortex. Current Biology, 24(16), 1866-1873.
+- [ ] Vaziri, S., & Connor, C. E. (2016). Representation of Gravity-Aligned Scene Structure in Ventral Pathway Visual Cortex. Current Biology, 26(6), 766-774. **[Quick glance summary](https://gitlab.com/stothe2/literature-review/blob/master/_posts/2016-09-30-Connor2016.md)**.
 
 #### Other
 - [ ] Yildirim, I., Siegel, M. H., & Tenenbaum, J. B. Perceiving Fully Occluded Objects via Physical Simulation.
