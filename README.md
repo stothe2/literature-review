@@ -76,3 +76,7 @@
 **[Quick glance summary](https://gitlab.com/stothe2/literature-review/blob/master/_posts/2016-09-27-Tenenbaum2016.md)**.
 - [ ] Peters, M. A., Ma, W. J., & Shams, L. (2016). The Size-Weight Illusion is not anti-Bayesian after all: a unifying Bayesian account. PeerJ, 4, e2124.
 **[Quick glance summary](https://gitlab.com/stothe2/literature-review/blob/master/_posts/2016-09-28-Ma2016.md)**.
+
+#### Sequence-learning journal club
+- [ ] Luft, C. D., Meeson, A., Welchman, A. E., & Kourtzi, Z. (2015). Decoding the future from past experience: learning shapes predictions in early visual cortex. Journal of neurophysiology, 113(9), 3159-3171.
+**[Quick glance summary](https://gitlab.com/stothe2/literature-review/blob/master/_posts/2016-10-04-Luft2015.md)**.
