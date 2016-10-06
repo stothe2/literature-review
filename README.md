@@ -77,6 +77,12 @@
 - [ ] Peters, M. A., Ma, W. J., & Shams, L. (2016). The Size-Weight Illusion is not anti-Bayesian after all: a unifying Bayesian account. PeerJ, 4, e2124.
 **[Quick glance summary](https://gitlab.com/stothe2/literature-review/blob/master/_posts/2016-09-28-Ma2016.md)**.
 
+#### Working memory
+- [ ] Brady, T. F., Konkle, T., & Alvarez, G. A. (2009). Compression in visual working memory: using statistical regularities to form more efficient memory representations. Journal of Experimental Psychology: General, 138(4), 487.
+**[Quick glance summary](https://gitlab.com/stothe2/literature-review/blob/master/_posts/2016-10-06-Brady2009.md)**.
+
 #### Sequence-learning journal club
 - [x] Luft, C. D., Meeson, A., Welchman, A. E., & Kourtzi, Z. (2015). Decoding the future from past experience: learning shapes predictions in early visual cortex. Journal of neurophysiology, 113(9), 3159-3171.
 **[Post](https://gitlab.com/stothe2/literature-review/blob/master/_posts/2016-10-04-Luft2015.md)**.
+
+#### Vision seminar
