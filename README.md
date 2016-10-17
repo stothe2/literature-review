@@ -69,17 +69,17 @@
 
 #### Ventral visual pathway used not only for object recognition but also physical scene understanding
 - [ ] Gallivan, J. P., Cant, J. S., Goodale, M. A., & Flanagan, J. R. (2014). Representation of object weight in human ventral visual cortex. Current Biology, 24(16), 1866-1873.
-- [ ] Vaziri, S., & Connor, C. E. (2016). Representation of Gravity-Aligned Scene Structure in Ventral Pathway Visual Cortex. Current Biology, 26(6), 766-774. **[Quick glance summary](https://gitlab.com/stothe2/literature-review/blob/master/_posts/2016-09-30-Connor2016.md)**.
+- [ ] Vaziri, S., & Connor, C. E. (2016). Representation of Gravity-Aligned Scene Structure in Ventral Pathway Visual Cortex. Current Biology, 26(6), 766-774. **[Quick glance summary](_posts/2016-09-30-Connor2016.md)**.
 
 #### Working memory
 - [ ] Brady, T. F., Konkle, T., & Alvarez, G. A. (2009). Compression in visual working memory: using statistical regularities to form more efficient memory representations. Journal of Experimental Psychology: General, 138(4), 487.
-**[Quick glance summary](https://gitlab.com/stothe2/literature-review/blob/master/_posts/2016-10-06-Brady2009.md)**.
+**[Quick glance summary](_posts/2016-10-06-Brady2009.md)**.
 
 #### Other
 - [ ] Yildirim, I., Siegel, M. H., & Tenenbaum, J. B. Perceiving Fully Occluded Objects via Physical Simulation.
-**[Quick glance summary](https://gitlab.com/stothe2/literature-review/blob/master/_posts/2016-09-27-Tenenbaum2016.md)**.
+**[Quick glance summary](_posts/2016-09-27-Tenenbaum2016.md)**.
 - [ ] Peters, M. A., Ma, W. J., & Shams, L. (2016). The Size-Weight Illusion is not anti-Bayesian after all: a unifying Bayesian account. PeerJ, 4, e2124.
-**[Quick glance summary](https://gitlab.com/stothe2/literature-review/blob/master/_posts/2016-09-28-Ma2016.md)**.
+**[Quick glance summary](_posts/2016-09-28-Ma2016.md)**.
 
 # Sequence learning journal club
 - [x] Luft, C. D., Meeson, A., Welchman, A. E., & Kourtzi, Z. (2015). Decoding the future from past experience: learning shapes predictions in early visual cortex. Journal of neurophysiology, 113(9), 3159-3171.
