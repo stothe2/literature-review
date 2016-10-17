@@ -83,7 +83,7 @@
 
 # Sequence learning journal club
 - [x] Luft, C. D., Meeson, A., Welchman, A. E., & Kourtzi, Z. (2015). Decoding the future from past experience: learning shapes predictions in early visual cortex. Journal of neurophysiology, 113(9), 3159-3171.
-**[Post](https://gitlab.com/stothe2/literature-review/blob/master/_posts/2016-10-04-Luft2015.md)**.
+**[Post](_posts/2016-10-04-Luft2015.md)**.
 - [ ] Fiser, J., & Aslin, R. N. (2002). Statistical learning of higher-order temporal structure from visual shape sequences. Journal of Experimental Psychology: Learning, Memory, and Cognition, 28(3), 458.
 
 # Vision seminar
