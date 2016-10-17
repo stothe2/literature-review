@@ -7,6 +7,7 @@ baseurl: "/literature-review" # the subpath of your site, e.g. /blog/
 url: "http://stothe2.github.io" # the base hostname & protocol for your site
 twitter_username: stothe2
 github_username:  stothe2
+timezone: America/New_York
 
 # Build settings
 markdown: kramdown
