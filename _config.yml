@@ -1,6 +1,5 @@
 # Site settings
 title: Reading notes
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Some reading notes.
 baseurl: "/literature-review" # the subpath of your site, e.g. /blog/
