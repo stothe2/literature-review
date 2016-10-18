@@ -25,6 +25,8 @@
 - [ ] Mason, R., & Just, M. (2016). Neural representations of physics concepts. Psychological Science 27 (6), 904-913.
 - [x] Fischer, J., Mikhael, J. G., Tenenbaum, J. B., & Kanwisher, N. (2016). Functional neuroanatomy of intuitive physical inference. Proceedings of the National Academy of Sciences, 201610344.
 **Post**.
+- [ ] Yildirim, I., Siegel, M. H., & Tenenbaum, J. B. Perceiving Fully Occluded Objects via Physical Simulation.
+**[Quick glance summary](_posts/2016-09-27-Tenenbaum2016.md)**.
 
 #### Innate aspects of intuitive physics
 - [x] Baillargeon, R. (2002). The acquisition of physical knowledge in infancy: A summary in eight lessons. Blackwell handbook of childhood cognitive development, 47–83.
@@ -76,8 +78,6 @@
 **[Quick glance summary](_posts/2016-10-06-Brady2009.md)**.
 
 #### Other
-- [ ] Yildirim, I., Siegel, M. H., & Tenenbaum, J. B. Perceiving Fully Occluded Objects via Physical Simulation.
-**[Quick glance summary](_posts/2016-09-27-Tenenbaum2016.md)**.
 - [ ] Peters, M. A., Ma, W. J., & Shams, L. (2016). The Size-Weight Illusion is not anti-Bayesian after all: a unifying Bayesian account. PeerJ, 4, e2124.
 **[Quick glance summary](_posts/2016-09-28-Ma2016.md)**.
 
@@ -85,5 +85,10 @@
 - [x] Luft, C. D., Meeson, A., Welchman, A. E., & Kourtzi, Z. (2015). Decoding the future from past experience: learning shapes predictions in early visual cortex. Journal of neurophysiology, 113(9), 3159-3171.
 **[Post](_posts/2016-10-04-Luft2015.md)**.
 - [ ] Fiser, J., & Aslin, R. N. (2002). Statistical learning of higher-order temporal structure from visual shape sequences. Journal of Experimental Psychology: Learning, Memory, and Cognition, 28(3), 458.
+
+
+#### General
+- [ ] Baldassano, C., Chen, J., Zadbood, A., Pillow, J. W., Hasson, U., & Norman, K. A. (2016). Discovering event structure in continuous narrative perception and memory. bioRxiv, 081018.
+**[Quick glance summary](_posts/2016-10-17-Baldassano2016.md)**.
 
 # Vision seminar
