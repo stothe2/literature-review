@@ -77,6 +77,10 @@
 - [ ] Brady, T. F., Konkle, T., & Alvarez, G. A. (2009). Compression in visual working memory: using statistical regularities to form more efficient memory representations. Journal of Experimental Psychology: General, 138(4), 487.
 **[Quick glance summary](_posts/2016-10-06-Brady2009.md)**.
 
+#### Event-type representations in adults
+- [x] Strickland, B., & Scholl, B. J. (2015). Visual perception involves event-type representations: The case of containment versus occlusion. Journal of Experimental Psychology: General, 144(3), 570.
+**[Post](_posts/2016-11-01-Strickland2015.md)**.
+
 #### Other
 - [ ] Peters, M. A., Ma, W. J., & Shams, L. (2016). The Size-Weight Illusion is not anti-Bayesian after all: a unifying Bayesian account. PeerJ, 4, e2124.
 **[Quick glance summary](_posts/2016-09-28-Ma2016.md)**.
