@@ -76,7 +76,6 @@
 
 #### Working memory
 - [ ] Brady, T. F., Konkle, T., & Alvarez, G. A. (2009). Compression in visual working memory: using statistical regularities to form more efficient memory representations. Journal of Experimental Psychology: General, 138(4), 487.
-**[Quick glance summary](_posts/2016-10-06-Brady2009.md)**.
 
 #### Event-type representations in adults
 - [x] Strickland, B., & Scholl, B. J. (2015). Visual perception involves event-type representations: The case of containment versus occlusion. Journal of Experimental Psychology: General, 144(3), 570.
