@@ -15,13 +15,13 @@
 #### Intuitive physics
 - [ ] Spelke, E. S. (1990). Cognitive capacities of human infants: Conceptions of object motion. Signal and sense: Local and global order in the nervous system. NY: Wiley.
 - [ ] Spelke, E. S., Gutheil, G., & Van de Walle, G. (1995). The development of object perception.
-- [ ] Bates, C. J., Yildirim, I., Tenenbaum, J. B., & Battaglia, P. W. (2015). [Humans predict liquid dynamics using probabilistic simulation](http://web.mit.edu/~pbatt/www/publications/BateYildTeneBatt15CogSci37.pdf). In Proceedings of the 37th annual conference of the cognitive science society.
+- [ ] Bates, C. J., Yildirim, I., Tenenbaum, J. B., & Battaglia, P. W. (2015). Humans predict liquid dynamics using probabilistic simulation. In Proceedings of the 37th annual conference of the cognitive science society.
 - [ ] Battaglia, P. W., Hamrick, J. B., & Tenenbaum, J. B. (2013). Simulation as an engine of physical scene understanding. Proceedings of the National Academy of Sciences, 110(45), 18327-18332. [IPE]
 - [ ] Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (2015). How, whether, why: Causal judgments as counterfactual contrasts. In Proceedings of the 37th annual conference of the cognitive science society (pp. 782-787).
-- [ ] Sanborn, A. N., Mansinghka, V. K., & Griffiths, T. L. (2013). [Reconciling intuitive physics and Newtonian mechanics for colliding objects](https://cocosci.berkeley.edu/tom/papers/collisionPsychReview_inpress.pdf). Psychological review, 120(2), 411. [noisy Newtonian model]
-- [x] Hamrick, J. B., Battaglia, P. W., Griffiths, T. L., & Tenenbaum, J. B. (2016). [Inferring mass in complex scenes by mental simulation](http://ac.els-cdn.com/S0010027716302025/1-s2.0-S0010027716302025-main.pdf?_tid=ff2447b6-73dc-11e6-93ca-00000aacb35e&acdnat=1473130549_b6767dc48254aa7fda26d261d689ec63). Cognition, 157, 61-76.
+- [ ] Sanborn, A. N., Mansinghka, V. K., & Griffiths, T. L. (2013). Reconciling intuitive physics and Newtonian mechanics for colliding objects. Psychological review, 120(2), 411. [noisy Newtonian model]
+- [x] Hamrick, J. B., Battaglia, P. W., Griffiths, T. L., & Tenenbaum, J. B. (2016). Inferring mass in complex scenes by mental simulation. Cognition, 157, 61-76.
 **Finish notes / second reading**.
-- [ ] Smith, K. A., & Vul, E. (2013). [Sources of uncertainty in intuitive physics](http://www.evullab.org/pdf/SV-CogSci-2012.pdf). Topics in cognitive science, 5(1), 185-199.
+- [ ] Smith, K. A., & Vul, E. (2013). Sources of uncertainty in intuitive physics. Topics in cognitive science, 5(1), 185-199.
 - [ ] Mason, R., & Just, M. (2016). Neural representations of physics concepts. Psychological Science 27 (6), 904-913.
 - [x] Fischer, J., Mikhael, J. G., Tenenbaum, J. B., & Kanwisher, N. (2016). Functional neuroanatomy of intuitive physical inference. Proceedings of the National Academy of Sciences, 201610344.
 **Post**.
@@ -58,15 +58,15 @@
 - [ ] Just, M. A., Cherkassky, V. L., Aryal, S., & Mitchell, T. M. (2010). A neurosemantic theory of concrete noun representation based on the underlying brain codes. PloS one, 5(1), e8622.
 
 #### Bayesian models of cognition
-- [x] Griffiths, T.L., Kemp, C., & Tenenbaum, J.B. (2008). [Bayesian models of cognition](http://cocosci.berkeley.edu/tom/papers/bayeschapter.pdf). In Ron Sun (ed.), Cambridge Handbook of Computational Cognitive Modeling. Cambridge University Press.
+- [x] Griffiths, T.L., Kemp, C., & Tenenbaum, J.B. (2008). Bayesian models of cognition. In Ron Sun (ed.), Cambridge Handbook of Computational Cognitive Modeling. Cambridge University Press.
 **Finish notes / second reading**.
-- [ ] Perfors, A., Tenenbaum, J. B., Griffiths, T. L., & Xu, F. (2011). [A Tutorial Introduction to Bayesian Models of Cognitive Development](http://www.babylab.berkeley.edu/Perfors-Tenenbaum-Griffiths-Xu-2011.pdf). Cognition, 120, 302-321.
-- [ ] Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). [How to Grow a Mind: Statistics, Structure, and Abstraction](http://courses.csail.mit.edu/6.803/pdf/tenenbaum2011.pdf). Science, 331, 1279-1285.
-- [ ] Gershman, S. J., Horvitz, E. J., & Tenenbaum, J. B. (2015). [Computational Rationality: A Converging Paradigm for Intelligence in Brains, Minds, and Machines](http://gershmanlab.webfactional.com/pubs/GershmanHorvitzTenenbaum15.pdf). Science, 349 (6245), 273-278.
-- [ ] Teglas, E., Vul, E., Girotto, V., Gonzalez, M., Tenenbaum, J. B., & Bonatti, L. L. (2011). [Pure Reasoning in 12-Month-Old Infants as Probabilistic Inference](http://web.mit.edu/~cocosci/Papers/Science-2011-Teglas-1054-9.pdf). Science, 332, 1054-1059. Optional: [Supplementary material for the Teglas et al. article](http://web.mit.edu/~cocosci/Papers/Teglas-SOM.pdf).
-- [ ] Ullman, T. D., Goodman, N. D., & Tenenbaum, J. B. (2012). [Theory Learning as Stochastic Search in the Language of Thought](http://web.mit.edu/tomeru/www/papers/tlss-final.pdf). Cognitive Development, 27(4), 455-480.
-- [ ] Petzschner, F.H., Glasauer, S., & Stephan, K.E. (2015). [A Bayesian perspective on magnitude estimation](https://www.researchgate.net/profile/Frederike_Petzschner/publication/274406769_A_Bayesian_perspective_on_magnitude_estimation/links/553f46140cf2574dcf626525.pdf). Trends in cognitive sciences 19 (5), 285-293.
-- [ ] Tenenbaum, J.B., Griffiths, T.L., & Kemp, C. (2006). [Theory-based Bayesian models of inductive learning and reasoning](http://www.aliquote.org/cours/2006_cogmaster_B4/pdf/Tenenbaum2006.pdf). Trends in cognitive sciences, 10(7), 309-318.
+- [ ] Perfors, A., Tenenbaum, J. B., Griffiths, T. L., & Xu, F. (2011). A Tutorial Introduction to Bayesian Models of Cognitive Development. Cognition, 120, 302-321.
+- [ ] Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to Grow a Mind: Statistics, Structure, and Abstraction. Science, 331, 1279-1285.
+- [ ] Gershman, S. J., Horvitz, E. J., & Tenenbaum, J. B. (2015). Computational Rationality: A Converging Paradigm for Intelligence in Brains, Minds, and Machines. Science, 349 (6245), 273-278.
+- [ ] Teglas, E., Vul, E., Girotto, V., Gonzalez, M., Tenenbaum, J. B., & Bonatti, L. L. (2011). Pure Reasoning in 12-Month-Old Infants as Probabilistic Inference. Science, 332, 1054-1059. Optional: [Supplementary material for the Teglas et al. article](http://web.mit.edu/~cocosci/Papers/Teglas-SOM.pdf).
+- [ ] Ullman, T. D., Goodman, N. D., & Tenenbaum, J. B. (2012). Theory Learning as Stochastic Search in the Language of Thought. Cognitive Development, 27(4), 455-480.
+- [ ] Petzschner, F.H., Glasauer, S., & Stephan, K.E. (2015). A Bayesian perspective on magnitude estimation. Trends in cognitive sciences 19 (5), 285-293.
+- [ ] Tenenbaum, J.B., Griffiths, T.L., & Kemp, C. (2006). Theory-based Bayesian models of inductive learning and reasoning. Trends in cognitive sciences, 10(7), 309-318.
 
 #### Challenges of probabilistic models
 
