@@ -52,6 +52,7 @@
 
 #### Using deep learning to predict physics outcomes
 - [ ] Lerer, A., Gross, S., & Fergus, R. (2016). Learning Physical Intuition of Block Towers by Example. arXiv preprint arXiv:1603.01312.
+- [x] Denil, M., Agrawal, P., Kulkarni, T. D., Erez, T., Battaglia, P., & de Freitas, N. (2016). Learning to Perform Physics Experiments via Deep Reinforcement Learning. arXiv preprint arXiv:1611.01843.
 
 #### Overview of Gaussian naive Bayes classifier cross-validation as applied to fMRI data
 - [ ] Just, M. A., Cherkassky, V. L., Aryal, S., & Mitchell, T. M. (2010). A neurosemantic theory of concrete noun representation based on the underlying brain codes. PloS one, 5(1), e8622.
