@@ -11,9 +11,11 @@
 - [ ] Hamrick, J. B., Smith, K. A., Griffiths, T. L., & Vul, E. (2015). Think again? The amount of mental simulation tracks uncertainty in the outcome. In Proceedings of the thirtyseventh annual conference of the cognitive science society.
 - [ ] Schwartz, D. L., & Black, J. B. (1996). Analog imagery in mental model reasoning: Depictive models. Cognitive Psychology, 30(2), 154-219.
 - [ ] Smith, K., Dechter, E., Tenenbaum, J., & Vul, E. (2013). Physical predictions over time. In Proceedings of the 35th annual meeting of the cognitive science society (pp. 1-6).
+- [x] Saxe, R. (2005). Against simulation: the argument from error. Trends in cognitive sciences, 9(4), 174-179.
 
 #### Intuitive physics
-- [ ] Spelke, E. S. (1990). Cognitive capacities of human infants: Conceptions of object motion. Signal and sense: Local and global order in the nervous system. NY: Wiley.
+- [x] Spelke, E. S. (1990). Cognitive capacities of human infants: Conceptions of object motion. Signal and sense: Local and global order in the nervous system. NY: Wiley. 
+**[Post](_posts/2016-11-14-Spelke1990.md)**.
 - [ ] Spelke, E. S., Gutheil, G., & Van de Walle, G. (1995). The development of object perception.
 - [ ] Bates, C. J., Yildirim, I., Tenenbaum, J. B., & Battaglia, P. W. (2015). Humans predict liquid dynamics using probabilistic simulation. In Proceedings of the 37th annual conference of the cognitive science society.
 - [ ] Battaglia, P. W., Hamrick, J. B., & Tenenbaum, J. B. (2013). Simulation as an engine of physical scene understanding. Proceedings of the National Academy of Sciences, 110(45), 18327-18332. [IPE]
