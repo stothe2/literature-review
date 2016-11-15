@@ -52,9 +52,11 @@
 - [ ] Proffitt, D. R., & Gilden, D. L. (1989). Understanding natural dynamics. Journal of Experimental Psychology: Human Perception and Performance, 15(2), 384.
 - [ ] Todd, J. T., & Warren, W. H. (1982). Visual perception of relative mass in dynamic events. Perception, 11(3), 325-335.
 
-#### Using deep learning to predict physics outcomes
+#### Using neural networks to predict physics outcomes
 - [ ] Lerer, A., Gross, S., & Fergus, R. (2016). Learning Physical Intuition of Block Towers by Example. arXiv preprint arXiv:1603.01312.
 - [x] Denil, M., Agrawal, P., Kulkarni, T. D., Erez, T., Battaglia, P., & de Freitas, N. (2016). Learning to Perform Physics Experiments via Deep Reinforcement Learning. arXiv preprint arXiv:1611.01843.
+- [x] Zhang, R., Wu, J., Zhang, C., Freeman, W. T., & Tenenbaum, J. B. (2016). A Comparative Evaluation of Approximate Probabilistic Simulation and Deep Neural Networks as Accounts of Human Physical Scene Understanding. arXiv preprint arXiv:1605.01138.
+- [ ] Fragkiadaki, K., Agrawal, P., Levine, S., & Malik, J. (2015). Learning Visual Predictive Models of Physics for Playing Billiards. arXiv preprint arXiv:1511.07404. [Implements intuitive physics in RNN]
 
 #### Overview of Gaussian naive Bayes classifier cross-validation as applied to fMRI data
 - [ ] Just, M. A., Cherkassky, V. L., Aryal, S., & Mitchell, T. M. (2010). A neurosemantic theory of concrete noun representation based on the underlying brain codes. PloS one, 5(1), e8622.
