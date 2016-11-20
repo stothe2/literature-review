@@ -85,6 +85,11 @@
 - [x] Strickland, B., & Scholl, B. J. (2015). Visual perception involves event-type representations: The case of containment versus occlusion. Journal of Experimental Psychology: General, 144(3), 570.
 **[Post](_posts/2016-11-01-Strickland2015.md)**.
 
+#### Ensemble perception
+
+- [x] Haberman, J., & Whitney, D. (2012). Ensemble perception: Summarizing the scene and broadening the limits of visual processing. From perception to consciousness: Searching with Anne Treisman, 339-349.
+- [x] Alvarez, G. A., & Oliva, A. (2009). Spatial ensemble statistics are efficient codes that can be represented with reduced attention. Proceedings of the National Academy of Sciences, 106(18), 7345-7350.
+
 #### Other
 - [ ] Peters, M. A., Ma, W. J., & Shams, L. (2016). The Size-Weight Illusion is not anti-Bayesian after all: a unifying Bayesian account. PeerJ, 4, e2124.
 **[Quick glance summary](_posts/2016-09-28-Ma2016.md)**.
@@ -93,7 +98,6 @@
 - [x] Luft, C. D., Meeson, A., Welchman, A. E., & Kourtzi, Z. (2015). Decoding the future from past experience: learning shapes predictions in early visual cortex. Journal of neurophysiology, 113(9), 3159-3171.
 **[Post](_posts/2016-10-04-Luft2015.md)**.
 - [ ] Fiser, J., & Aslin, R. N. (2002). Statistical learning of higher-order temporal structure from visual shape sequences. Journal of Experimental Psychology: Learning, Memory, and Cognition, 28(3), 458.
-
 
 #### General
 - [ ] Baldassano, C., Chen, J., Zadbood, A., Pillow, J. W., Hasson, U., & Norman, K. A. (2016). Discovering event structure in continuous narrative perception and memory. bioRxiv, 081018.
