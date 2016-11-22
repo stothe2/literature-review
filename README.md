@@ -89,6 +89,7 @@
 
 - [x] Haberman, J., & Whitney, D. (2012). Ensemble perception: Summarizing the scene and broadening the limits of visual processing. From perception to consciousness: Searching with Anne Treisman, 339-349.
 - [x] Alvarez, G. A., & Oliva, A. (2009). Spatial ensemble statistics are efficient codes that can be represented with reduced attention. Proceedings of the National Academy of Sciences, 106(18), 7345-7350.
+- [x] Alvarez, G. A. (2011). Representing multiple objects as an ensemble enhances visual cognition. Trends in cognitive sciences, 15(3), 122-131.
 
 #### Other
 - [ ] Peters, M. A., Ma, W. J., & Shams, L. (2016). The Size-Weight Illusion is not anti-Bayesian after all: a unifying Bayesian account. PeerJ, 4, e2124.
