@@ -85,15 +85,23 @@
 - [x] Strickland, B., & Scholl, B. J. (2015). Visual perception involves event-type representations: The case of containment versus occlusion. Journal of Experimental Psychology: General, 144(3), 570.
 **[Post](_posts/2016-11-01-Strickland2015.md)**.
 
-#### Ensemble perception
-
-- [x] Haberman, J., & Whitney, D. (2012). Ensemble perception: Summarizing the scene and broadening the limits of visual processing. From perception to consciousness: Searching with Anne Treisman, 339-349.
-- [x] Alvarez, G. A., & Oliva, A. (2009). Spatial ensemble statistics are efficient codes that can be represented with reduced attention. Proceedings of the National Academy of Sciences, 106(18), 7345-7350.
-- [x] Alvarez, G. A. (2011). Representing multiple objects as an ensemble enhances visual cognition. Trends in cognitive sciences, 15(3), 122-131.
 
 #### Other
 - [ ] Peters, M. A., Ma, W. J., & Shams, L. (2016). The Size-Weight Illusion is not anti-Bayesian after all: a unifying Bayesian account. PeerJ, 4, e2124.
 **[Quick glance summary](_posts/2016-09-28-Ma2016.md)**.
+
+# Ensemble Perception
+
+- [x] Haberman, J., & Whitney, D. (2012). Ensemble perception: Summarizing the scene and broadening the limits of visual processing. From perception to consciousness: Searching with Anne Treisman, 339-349.
+- [x] Alvarez, G. A., & Oliva, A. (2009). Spatial ensemble statistics are efficient codes that can be represented with reduced attention. Proceedings of the National Academy of Sciences, 106(18), 7345-7350.
+- [x] Alvarez, G. A. (2011). Representing multiple objects as an ensemble enhances visual cognition. Trends in cognitive sciences, 15(3), 122-131.
+- [x] Zhao, J., Ngo, N., McKendrick, R., & Turk-Browne, N. B. (2011). Mutual interference between statistical summary perception and statistical learning. Psychological Science.
+- [ ] Emmanouil, T. A., & Treisman, A. (2008). Dividing attention across feature dimensions in statistical processing of perceptual groups. Perception & psychophysics, 70(6), 946-954.
+- [ ] Albrecht, A. R., & Scholl, B. J. (2010). Perceptually averaging in a continuous visual world extracting statistical summary representations over time. Psychological Science, 21(4), 560-567.
+
+# Orientation
+
+- [x] McCloskey, M., Valtonen, J., & Cohen Sherman, J. (2006). Representing orientation: A coordinate-system hypothesis and evidence from developmental deficits. Cognitive Neuropsychology, 23(5), 680-713.
 
 # Sequence learning journal club
 - [x] Luft, C. D., Meeson, A., Welchman, A. E., & Kourtzi, Z. (2015). Decoding the future from past experience: learning shapes predictions in early visual cortex. Journal of neurophysiology, 113(9), 3159-3171.
@@ -101,7 +109,19 @@
 - [ ] Fiser, J., & Aslin, R. N. (2002). Statistical learning of higher-order temporal structure from visual shape sequences. Journal of Experimental Psychology: Learning, Memory, and Cognition, 28(3), 458.
 
 #### General
-- [ ] Baldassano, C., Chen, J., Zadbood, A., Pillow, J. W., Hasson, U., & Norman, K. A. (2016). Discovering event structure in continuous narrative perception and memory. bioRxiv, 081018.
+- [x] Baldassano, C., Chen, J., Zadbood, A., Pillow, J. W., Hasson, U., & Norman, K. A. (2016). Discovering event structure in continuous narrative perception and memory. bioRxiv, 081018.
 **[Quick glance summary](_posts/2016-10-17-Baldassano2016.md)**.
+- [x] Chen, J., Leong, Y. C., Honey, C. J., Yong, C. H., Norman, K. A., & Hasson, U. (2017). Shared memories reveal shared structure in neural activity across individuals. Nature Neuroscience, 20(1), 115-125.
+- [ ] Cravo, A. M., Rohenkohl, G., Santos, K. M., & Nobre, A. C. (2016). Temporal anticipation based on memory. bioRxiv, 090555.
 
 # Vision seminar
+
+- [x] Otten, M., Pinto, Y., Paffen, C. L., Seth, A. K., & Kanai, R. (2016). The uniformity illusion: central stimuli can determine peripheral perception. Psychological Science.
+
+# Sensorimotor journal club
+
+- [x] Suvrathan, A., Payne, H. L., & Raymond, J. L. (2016). Timing Rules for Synaptic Plasticity Matched to Behavioral Function. Neuron, 92(5), 959-967.
+
+# McCloskey lab meetings
+
+- [x] Rapp, B., & Caramazza, A. (1997). From graphemes to abstract letter shapes: levels of representation in written spelling. Journal of experimental psychology: human perception and performance, 23(4), 1130.
