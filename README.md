@@ -12,6 +12,10 @@
 - [ ] Schwartz, D. L., & Black, J. B. (1996). Analog imagery in mental model reasoning: Depictive models. Cognitive Psychology, 30(2), 154-219.
 - [ ] Smith, K., Dechter, E., Tenenbaum, J., & Vul, E. (2013). Physical predictions over time. In Proceedings of the 35th annual meeting of the cognitive science society (pp. 1-6).
 - [x] Saxe, R. (2005). Against simulation: the argument from error. Trends in cognitive sciences, 9(4), 174-179.
+- [ ] Lieder, F., & Griffiths, T. L. (2015). When to use which heuristic: A rational solution to the strategy selection problem. In CogSci.
+- [x] Smith, K. A., Battaglia, P., & Vul, E. (2013, July). Consistent physics underlying ballistic motion prediction. In CogSci.
+- [ ] Schwartz, D. L., & Black, T. (1999). Inferences through imagined actions: Knowing by simulated doing. Journal of Experimental Psychology: Learning, Memory, and Cognition, 25(1), 116.
+- [ ] Runeson, S., Juslin, P., & Olsson, H. (2000). Visual perception of dynamic properties: cue heuristics versus direct-perceptual competence. Psychological review, 107(3), 525.
 
 #### Intuitive physics
 - [x] Spelke, E. S. (1990). Cognitive capacities of human infants: Conceptions of object motion. Signal and sense: Local and global order in the nervous system. NY: Wiley. 
@@ -20,15 +24,17 @@
 - [ ] Bates, C. J., Yildirim, I., Tenenbaum, J. B., & Battaglia, P. W. (2015). Humans predict liquid dynamics using probabilistic simulation. In Proceedings of the 37th annual conference of the cognitive science society.
 - [ ] Battaglia, P. W., Hamrick, J. B., & Tenenbaum, J. B. (2013). Simulation as an engine of physical scene understanding. Proceedings of the National Academy of Sciences, 110(45), 18327-18332. [IPE]
 - [ ] Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (2015). How, whether, why: Causal judgments as counterfactual contrasts. In Proceedings of the 37th annual conference of the cognitive science society (pp. 782-787).
-- [ ] Sanborn, A. N., Mansinghka, V. K., & Griffiths, T. L. (2013). Reconciling intuitive physics and Newtonian mechanics for colliding objects. Psychological review, 120(2), 411. [noisy Newtonian model]
+- [x] Sanborn, A. N., Mansinghka, V. K., & Griffiths, T. L. (2013). Reconciling intuitive physics and Newtonian mechanics for colliding objects. Psychological review, 120(2), 411. [noisy Newtonian model]
 - [x] Hamrick, J. B., Battaglia, P. W., Griffiths, T. L., & Tenenbaum, J. B. (2016). Inferring mass in complex scenes by mental simulation. Cognition, 157, 61-76.
 **Finish notes / second reading**.
-- [ ] Smith, K. A., & Vul, E. (2013). Sources of uncertainty in intuitive physics. Topics in cognitive science, 5(1), 185-199.
+- [x] Smith, K. A., & Vul, E. (2013). Sources of uncertainty in intuitive physics. Topics in cognitive science, 5(1), 185-199.
 - [ ] Mason, R., & Just, M. (2016). Neural representations of physics concepts. Psychological Science 27 (6), 904-913.
 - [x] Fischer, J., Mikhael, J. G., Tenenbaum, J. B., & Kanwisher, N. (2016). Functional neuroanatomy of intuitive physical inference. Proceedings of the National Academy of Sciences, 201610344.
 **Post**.
 - [ ] Yildirim, I., Siegel, M. H., & Tenenbaum, J. B. Perceiving Fully Occluded Objects via Physical Simulation.
 **[Quick glance summary](_posts/2016-09-27-Tenenbaum2016.md)**.
+- [x] Kozhevnikov, M., & Hegarty, M. (2001). Impetus beliefs as default heuristics: Dissociation between explicit and implicit knowledge about motion. Psychonomic Bulletin & Review, 8(3), 439-453.
+- [ ] Yildirim, I., Wu, J., Du, Y., & Tenenbaum, J. B. Interpreting Dynamic Scenes by a Physics Engine and Bottom-Up Visual Cues.
 
 #### Innate aspects of intuitive physics
 - [x] Baillargeon, R. (2002). The acquisition of physical knowledge in infancy: A summary in eight lessons. Blackwell handbook of childhood cognitive development, 47–83.
@@ -57,6 +63,14 @@
 - [x] Denil, M., Agrawal, P., Kulkarni, T. D., Erez, T., Battaglia, P., & de Freitas, N. (2016). Learning to Perform Physics Experiments via Deep Reinforcement Learning. arXiv preprint arXiv:1611.01843.
 - [x] Zhang, R., Wu, J., Zhang, C., Freeman, W. T., & Tenenbaum, J. B. (2016). A Comparative Evaluation of Approximate Probabilistic Simulation and Deep Neural Networks as Accounts of Human Physical Scene Understanding. arXiv preprint arXiv:1605.01138.
 - [ ] Fragkiadaki, K., Agrawal, P., Levine, S., & Malik, J. (2015). Learning Visual Predictive Models of Physics for Playing Billiards. arXiv preprint arXiv:1511.07404. [Implements intuitive physics in RNN]
+- [ ] Finn, C., Goodfellow, I., & Levine, S. (2016). Unsupervised learning for physical interaction through video prediction. In Advances In Neural Information Processing Systems (pp. 64-72).
+- [ ] Mottaghi, R., Bagherinezhad, H., Rastegari, M., & Farhadi, A. (2016). Newtonian Scene Understanding: Unfolding the Dynamics of Objects in Static Images. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 3521-3529).
+- [ ] Chang, M. B., Ullman, T., Torralba, A., & Tenenbaum, J. B. (2016). A compositional object-based approach to learning physical dynamics. arXiv preprint arXiv:1612.00341.
+- [ ] Freer, C. E., Roy, D. M., & Tenenbaum, J. B. (2012). Towards common-sense reasoning via conditional simulation: Legacies of Turing in artificial intelligence. arXiv preprint arXiv:1212.4799.
+- [ ] Fragkiadaki, K., Agrawal, P., Levine, S., & Malik, J. (2015). Learning visual predictive models of physics for playing billiards. arXiv preprint arXiv:1511.07404.
+- [ ] Battaglia, P., Pascanu, R., Lai, M., & Rezende, D. J. (2016). Interaction networks for learning about objects, relations and physics. In Advances in Neural Information Processing Systems (pp. 4502-4510).
+- [ ] Schulz, E., Tenenbaum, J., Duvenaud, D. K., Speekenbrink, M., & Gershman, S. J. (2016). Probing the compositionality of intuitive functions. In Advances In Neural Information Processing Systems (pp. 3729-3737).
+- [ ] Degrave, J., Hermans, M., & Dambre, J. (2016). A Differentiable Physics Engine for Deep Learning in Robotics. arXiv preprint arXiv:1611.01652.
 
 #### Overview of Gaussian naive Bayes classifier cross-validation as applied to fMRI data
 - [ ] Just, M. A., Cherkassky, V. L., Aryal, S., & Mitchell, T. M. (2010). A neurosemantic theory of concrete noun representation based on the underlying brain codes. PloS one, 5(1), e8622.
@@ -71,6 +85,10 @@
 - [ ] Ullman, T. D., Goodman, N. D., & Tenenbaum, J. B. (2012). Theory Learning as Stochastic Search in the Language of Thought. Cognitive Development, 27(4), 455-480.
 - [ ] Petzschner, F.H., Glasauer, S., & Stephan, K.E. (2015). A Bayesian perspective on magnitude estimation. Trends in cognitive sciences 19 (5), 285-293.
 - [ ] Tenenbaum, J.B., Griffiths, T.L., & Kemp, C. (2006). Theory-based Bayesian models of inductive learning and reasoning. Trends in cognitive sciences, 10(7), 309-318.
+- [ ] Tervo, D. G. R., Tenenbaum, J. B., & Gershman, S. J. (2016). Toward the neural implementation of structure learning. Current opinion in neurobiology, 37, 99-105.
+- [ ] Gershman, S. J., & Beck, J. M. (2016). Complex probabilistic inference: from cognition to neural computation. Computational Models of Brain and Behavior, ed A. Moustafa (Hoboken, NJ: Wiley-Blackwell).
+- [ ] Tran, D., Hoffman, M. D., Saurous, R. A., Brevdo, E., Murphy, K., & Blei, D. M. (2017). Deep Probabilistic Programming. arXiv preprint arXiv:1701.03757.
+- [ ] Sanborn, A. N. (2015). Types of approximation for probabilistic cognition: Sampling and variational. Brain and cognition.
 
 #### Challenges of probabilistic models
 
@@ -89,6 +107,7 @@
 #### Other
 - [ ] Peters, M. A., Ma, W. J., & Shams, L. (2016). The Size-Weight Illusion is not anti-Bayesian after all: a unifying Bayesian account. PeerJ, 4, e2124.
 **[Quick glance summary](_posts/2016-09-28-Ma2016.md)**.
+- [ ] Funamizu, A., Kuhn, B., & Doya, K. (2016). Neural substrate of dynamic Bayesian inference in the cerebral cortex. Nature Neuroscience, 19(12), 1682-1689.
 
 # Ensemble Perception
 
